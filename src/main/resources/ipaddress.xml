@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ipaddress>
+    <person id="dhkim">
+        <ip>211.183.8.51</ip>
+        <name>김동휘</name>
+    </person>
+    <person id="sjjung">
+        <ip>211.183.8.52</ip>
+        <name>정선정</name>
+    </person>   
+</ipaddress>
